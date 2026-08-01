@@ -1,0 +1,26 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+source: https://trust.skience.com/
+url: https://trust.skience.com/
+certifications:
+- SOC 2 Type 2
+- SOC 2 + HITRUST
+reports_available:
+- SOC 2 Report
+- SOC 2 + HITRUST
+- Pentest Report
+- Privacy Whitepaper
+- Data Flow Diagram (DFD)
+- Network Diagram
+- Vulnerability Assessment Report
+hosted_on: SafeBase
+soc2_period: 2024-10-01/2025-09-30
+evidence:
+- source: https://trust.skience.com/
+  keywords:
+  - soc 2
+  - soc2
+  - hitrust
+  - trust center
+  - responsible disclosure
