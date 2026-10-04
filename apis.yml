@@ -46,7 +46,7 @@ modified: '2026-07-21'
 tags:
 - Company
 - Wealth Management
-- Financial-Services
+- Financial Services
 - WealthTech
 - Salesforce
 - Onboarding
@@ -63,6 +63,7 @@ tags_raw:
 - Account Opening
 - Data Management
 - SaaS
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
